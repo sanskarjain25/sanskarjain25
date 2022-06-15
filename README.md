@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanskar Jain</h1>
-<h3 align="center">Insightful 3rd year Computer Science student with interest in Competitive Programming and Web Development.</h3>
+<h3 align="center">Insightful 3rd year Computer Science student with interest in Web Development and Data Structures .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarjain25&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjain25" /> </p>
