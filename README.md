@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/sanskar-jain-21228a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-jain-21228a1b7" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskarjain025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskarjain025" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanskarjain20021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanskarjain20021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
