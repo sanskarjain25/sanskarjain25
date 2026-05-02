@@ -43,12 +43,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskarjain25&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
